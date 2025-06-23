@@ -4,8 +4,8 @@ Fenix759/Fenix759 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### soy un programador junior en etapa de aprendizaje <br> 
+### soy un programador en etapa de aprendizaje <br> 
 
-#### Actualmente estoy estudiando un tecnologo en analisis y desarrollo de software donde estoy aprendiendo sobre el uso de tecnologias basicas para poder llegar a usar las mas complejas en un futuro
+#### Actualmente estoy estudiando un tecnologo en analisis y desarrollo de software donde estoy aprendiendo sobre el uso de tecnologias basicas para poder llegar a comprender y usar las tecnologias mas complejas en un futuro
 
 
